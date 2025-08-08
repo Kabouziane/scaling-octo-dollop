@@ -303,5 +303,6 @@ drf-ecom/
 ✅ **Documentation complète** : API + Code + Déploiement  
 ✅ **Conformité légale** : PCMN + TVA belge  
 
-**Le système est entièrement opérationnel et optimisé !**#   s c a l i n g - o c t o - d o l l o p  
+**Le système est entièrement opérationnel et optimisé !**#   s c a l i n g - o c t o - d o l l o p 
+ 
  
